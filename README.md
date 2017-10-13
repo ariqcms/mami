@@ -1,0 +1,2 @@
+# mami
+just another repository
